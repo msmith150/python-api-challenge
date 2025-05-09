@@ -58,4 +58,20 @@ This notebook:
 git clone https://github.com/msmith150/python-api-challenge.git
 cd python-api-challenge
 pip install -r requirements.txt
- 
+```
+
+You will need API keys for:
+
+OpenWeatherMap
+
+Geoapify
+
+Set your API keys in the appropriate config or environment files.
+
+## Usage
+Run WeatherPy.ipynb to generate and analyze weather data.
+
+Run VacationPy.ipynb to identify and map vacation destinations.
+
+## License
+This project is licensed under the MIT License.
